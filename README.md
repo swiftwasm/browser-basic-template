@@ -35,3 +35,8 @@ You can easily deploy SwiftWasm apps to [GitHub Pages](https://pages.github.com)
 is already set up to do so. If you have GitHub Actions enabled, it will push successful builds to
 the `gh-pages` branch on every commit. You only need [to enable GitHub Pages in settings of your
 repository](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
+
+You can also deploy the app to any other CDN or hosting that can serve static files. Just run
+`carton bundle` in the root directory of this repository clone. This will create a `Bundle`
+directory that contains everything you need for the app to work. Then copy the contents of that
+directory to wherever you'd like to host it.
