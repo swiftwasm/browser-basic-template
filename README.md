@@ -3,7 +3,7 @@
 [`carton`](https://carton.dev) is the recommended way to build and run browser apps built with
 SwiftWasm. Follow these steps to get started, where you'll install `carton` via
 [Homebrew](https://brew.sh/) on macOS (unfortunately you'll have to build it manually on Linux).
-After you already have Homebrew installed, just these three steps will get you running:
+After you already have Homebrew installed, just these three steps will get you up and running:
 
 1. Install `carton`:
 
