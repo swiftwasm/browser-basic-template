@@ -13,7 +13,7 @@ href="https://github.com/swiftwasm/browser-basic-template">template</a> provides
 app built with SwiftWasm and <a href="https://github.com/swiftwasm/JavaScriptKit">JavaScriptKit</a>.
 
 Check out <a href="https://tokamak.dev">Tokamak</a> if you prefer a high-level API for building
-browser apps. It is also compatible with SwiftUI, which allows you to run your apps on multiple
+browser apps. It is also compatible with SwiftUI, which allows you to build your apps for multiple
 platforms.
 """#
 
