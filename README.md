@@ -28,3 +28,10 @@ carton dev
    navigate to [http://127.0.0.1:8080/](http://127.0.0.1:8080/) in your browser manually to see the
    app running. You can edit the app source code in your favorite editor and save it, `carton` will
    immediately rebuild the app and reload all browser tabs that have the app open.
+
+## Deployment
+
+You can easily deploy SwiftWasm apps to [GitHub Pages](https://pages.github.com). This repository
+is already set up to do so. If you have GitHub Actions enabled, it will push successful builds to
+the `gh-pages` branch on every commit. You only need [to enable GitHub Pages in settings of your
+repository](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
